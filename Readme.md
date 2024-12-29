@@ -2,11 +2,7 @@
 
 Projekt: [https://www.smartcity-pforzheim.de/index.html]
 
-# Map
-
-<iframe src="data/sensor_location_map.html" width="100%" height="600"></iframe>
-
-
+![alt text](picture/image.png)
 
 ## Beschreibung
 In diesem Notebook analysieren wir die Standortdaten von Sensoren in Pforzheim. Ziel ist es, die Adressen der Sensoren zu bereinigen, problematische Daten zu identifizieren und eine visuelle Darstellung der Standorte auf einer interaktiven Karte zu erstellen.
